@@ -1,4 +1,11 @@
-# Deploying a Flask API
+Full Stack Web Developer
+-----
+Udacity Project: Deploy Your Flask App to Kubernetes Using EKS: Server Deployment and Containerization
+
+Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild. Deployment using CI/CD.
+
+
+## Introduction
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
@@ -89,4 +96,5 @@ For more detail about each of these steps, see the project lesson.
 
  - **Build and deploy**<br>Finally, you will trigger the **build** based on a Github commit. 
 
- ### Eduardo Raider
+## 🛠 by Eduardo O Raider
+Full Stack Web Developer
